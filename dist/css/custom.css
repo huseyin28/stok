@@ -1,0 +1,17 @@
+/* your styles go here */
+.shadow{
+   box-shadow: 0px 0px 4px 0px rgba(0,0,0,1) !important;
+   width: fit-content;
+}
+.no-radius{
+   border-radius: 0 !important;
+}
+.nopad{
+    padding: 0px;
+}
+.pad5{
+    padding: 2px;
+}
+.nom{
+    margin:0 !important;
+}
