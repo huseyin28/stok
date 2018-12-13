@@ -1,8 +1,8 @@
-<?php 
+<?php  
     include 'includes/top.php';
     include 'services/conn.php';
     pg_connect("host=$host port=$port dbname=$dbname user=$user password=$password");
-?>
+?> 
 <div class="page-header">
    <div class="container-fluid">
       <h2 class="h5">

@@ -1,4 +1,4 @@
-<?php include 'includes/top.php';?>
+<?php include 'includes/top.php';?> 
       <!-- Sidebar Navigation end-->
       <div class="page-content">
         <div class="page-header">
